@@ -2,34 +2,39 @@
 
 ## Overview
 
+<h1 align="center">Aishwarya Dixit</h1>
+
 <h3 align="center">
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 </h3>
 
-Aspiring Data Analyst focused on transforming data into actionable insights through analytics, visualization, and business intelligence.
-
-Experience in Excel-based analytics, SQL querying, Power BI dashboards, and Python-driven data analysis. Passionate about solving business problems using data.
-
-🏅 Excel Projects Completed: 10+
-
-📊 Dashboards Developed: 15+
-
-📚 Analytics Case Studies: 20+
+<p align="center">
+Transforming Data into Actionable Insights 📊
+</p>
 
 ---
 
 ### Languages & Databases
 
-- Python
-- SQL
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</p>
 
 ### Analytics Tools
 
-- Microsoft Excel
-- Power BI
-- Power Query
-- Pivot Tables
-- DAX
+<p align="left">
+
+<img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/POWER_QUERY-00B050?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PIVOT_TABLES-005A9C?style=for-the-badge"/>
+
+</p>
 
 ### Data Skills
 
