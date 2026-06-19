@@ -33,24 +33,13 @@ Experience in Excel-based analytics, SQL querying, Power BI dashboards, and Pyth
 - Data Visualization
 - Dashboard Development
 - Exploratory Data Analysis
-- Reporting Automation
-
----
-
-### Sales Performance Analysis
-Business KPI Dashboard using Excel.
-
-### Aviation Sector Analytics
-Delay, Complaint & Profitability Analysis.
-
-### Financial Forecasting
-Sensitivity Analysis & Scenario Modeling.
 
 ---
 
 ## Current Focus
 
+- Advanced Excel
 - Advanced SQL
-- Power BI DAX
-- Python Analytics
-- Machine Learning Fundamentals
+- Power BI & DAX
+- Python 
+
