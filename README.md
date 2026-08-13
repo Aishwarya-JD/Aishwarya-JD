@@ -2,7 +2,7 @@
 
 ## Overview
 
-<h1 align="center">Aishwarya Dixit</h1>
+<h1 align="center">Aishwarya Jayant Dixit</h1>
 
 <h3 align="center">
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
